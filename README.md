@@ -3,9 +3,9 @@
 # How to launch Website
 Steps:
 
-(1) Download XAMPP https://www.apachefriends.org/
+**(1) Download XAMPP https://www.apachefriends.org/**
 
-(2) Open XAMPP Control Panel and make sure Apache and MySQL is working
+**(2) Open XAMPP Control Panel and make sure Apache and MySQL is working**
 
 *(2) if MySQL not working due to Port, change default Port from 3306 to 3307:
     - Apache > Config > PHP.ini (Change all "3306" to "3307")
@@ -15,12 +15,12 @@ Steps:
 ![image](https://github.com/ChristianP5/JELAJAH/assets/119984279/1176a272-680d-49e9-a781-f052210a5dab)
 
 
-(3) Open PHPMyAdmin (MySQL > Admin)
+**(3) Open PHPMyAdmin (MySQL > Admin)**
 
 ![image](https://github.com/ChristianP5/JELAJAH/assets/119984279/3df69a61-78db-465c-a09d-3fc713fa59d7)
 
 
-(4) Import Database
+**(4) Import Database**
     - Create New Database ( "New" on Right Sidebar )
 
   ![image](https://github.com/ChristianP5/JELAJAH/assets/119984279/b795f180-4607-471a-9372-3228ec91ec81)
@@ -46,17 +46,17 @@ Steps:
 
     - Go
 
-(5) Download Code as ZIP
+**(5) Download Code as ZIP**
 
  ![image](https://github.com/ChristianP5/JELAJAH/assets/119984279/1ea722bb-46b5-48b9-8bb7-f8103a64e6bd)
 
- (6) Extract
+ **(6) Extract**
 
- (7) Move Extracted Folder to xampp htdocs folder (Default is C:\xampp\htdocs)
+ **(7) Move Extracted Folder to xampp htdocs folder (Default is C:\xampp\htdocs)**
 
- (8) Rename Folder to "Jelajah" (Harus sama)
+ **(8) Rename Folder to "Jelajah" (Harus sama)**
 
- (9) Launch Steps:
+ **(9) Launch Steps:**
  - Start Apache and MySQL on Control Panel
  - Open Browser
  - Type the URL (for website): http://localhost/Jelajah/views/login.php
