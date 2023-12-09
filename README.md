@@ -8,9 +8,9 @@ Steps:
 **(2) Open XAMPP Control Panel and make sure Apache and MySQL is working**
 
 *(2) if MySQL not working due to Port, change default Port from 3306 to 3307:
-    - Apache > Config > PHP.ini (Change all "3306" to "3307")
-    - Apache > Config > congif.inc.php (Change all "3306" to "3307")
-    - MySQL > Config > my.ini (Change all "3306" to "3307")
+- Apache > Config > PHP.ini (Change all "3306" to "3307")
+- Apache > Config > congif.inc.php (Change all "3306" to "3307")
+- MySQL > Config > my.ini (Change all "3306" to "3307")
 
 ![image](https://github.com/ChristianP5/JELAJAH/assets/119984279/1176a272-680d-49e9-a781-f052210a5dab)
 
